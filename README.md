@@ -1,1 +1,1 @@
-report groothm bot bugs here by opening an issue
+report groothm bot bugs or suggest features here by opening an issue.
